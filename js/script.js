@@ -1,0 +1,1 @@
+console.log("Proyecto de alquiler de maquinaria cargado correctamente");
